@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">belajar intent</string>
+    <string name="button_explicit">KLIK DI SINI UNTUK EXPLICIT INTENT</string>
+    <string name="button_implicit">KLIK DI SINI UNTUK IMPLICIT INTENT</string>
+    <string name="info_halaman2">Ini adalah halaman ke-2</string>
+</resources>
